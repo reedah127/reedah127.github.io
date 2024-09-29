@@ -1,0 +1,12 @@
+---
+Title: Nike Store ERD
+---
+erDiagram
+    PRODUCT (
+)
+    CUSTOMERS (
+)
+    SALES (
+)
+    INVENTORY (
+)
